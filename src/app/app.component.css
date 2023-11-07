@@ -11,7 +11,7 @@
     font-weight: bolder;
 
     font-size: 14px;
-    background-color: #031c10;
+    background-color: rgb(240, 155, 220);
     padding: 10px 0;
     color: rgba(255, 255, 255, 0.7);
  }
@@ -20,7 +20,7 @@
 
  
  .header {
-  background:rgba(6, 134, 76, 0.8);;
+  background:rgba(134, 6, 123, 0.8);;
   transition: all 0.5s;
   z-index: 997;
   height: 70px;
@@ -69,7 +69,7 @@
 .header .btn-book-a-table:hover,
 .header .btn-book-a-table:focus:hover {
   color: #fff;
-  background: rgba(81, 114, 79, 0.8);
+  background: rgba(114, 79, 97, 0.8);
 }
 
 section {
